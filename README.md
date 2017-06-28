@@ -99,6 +99,9 @@ Graphing natural Log does not work but the bug for why it occurs is known
 to be that natural log can not handle negative numbers and zero.  Further
 programming time would be required to patch this bug.
 
+#to use:
+type “make”, followed by “make run”
+
 * * * * * * * * * * * * * *
 Future Additions and Fixes:
 
