@@ -3,6 +3,7 @@ Algebraic Expression Graphing Calculator
 A graphing calculator and computational numeric system with GUI interface.
 
 Calculator by Zachary Meeks
+
 GUI interface and plotting functionality by Gregory Miles
 
 Note: GUI Interface and graphing code not included here.
